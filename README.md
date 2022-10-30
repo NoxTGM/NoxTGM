@@ -5,3 +5,4 @@
 - **C#** : intermediate
 - **C++** : novice
 - **Lua** : novice
+- **JS** : novice
